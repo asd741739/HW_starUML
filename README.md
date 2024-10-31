@@ -38,17 +38,20 @@ StarUML開發環境
 2.關聯是教師可以登錄、查看教學心得、修改教學心得、發布教學心得、上傳課件和上傳教學視頻。
 3.包含是教師登錄後才可以進行相關聯操作。
 4.擴展是登錄前提條件需要先註冊、輸入驗證碼和找回密碼。
-image
+![image](https://github.com/user-attachments/assets/26a38f44-bf60-4e55-96f6-67c92381d2f4)
+
 
 <br />
 （3）系統管理員用例
 1.泛化是一種繼承關係，系統管理員繼承用戶類。
 2.關聯是系統管理員可以登錄系統、對網站頁面維護、批准用戶的註冊申請和審核不合法課件。
 3.包含是系統管理員登錄後才可以進行相關聯操作。
-image
+![image](https://github.com/user-attachments/assets/b379f3cc-24ae-4c75-a750-71197ccea532)
+
 
 #### 3.構建完整的用例圖。
-image
+![image](https://github.com/user-attachments/assets/6bf5a8bb-1e4c-40c1-a094-879d7b6beef9)
+
 
 ### 六、實驗結果與分析
 1.掌握用例圖關聯（繼承）、泛化、包含、擴展的使用，可以熟練運用PowerDesigner16開發環境繪畫用例圖。 <br />
